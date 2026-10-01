@@ -1,5 +1,0 @@
-Cliente 
-API 
-Modelo 
-Respuesta
-
