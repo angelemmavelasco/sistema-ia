@@ -37,3 +37,6 @@ Minimizar el tiempo de espera y busqueda, ademas de capacitaciones en un ambito 
 - Llama Guard
 - DeepEval
 
+## Estado del proyecto 
+Prototipo inicial.
+
